@@ -1,0 +1,6 @@
+# Large local Scryfall exports and generated metadata
+/data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
