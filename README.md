@@ -18,7 +18,8 @@ the compressed download is roughly 400 MB and the unpacked JSONL is roughly
 2.9 GB. Press `Ctrl+C` in the terminal to stop the viewer.
 
 The application shows the card image via Scryfall's hosted image URL; the bulk
-dataset itself does not download image files.
+dataset itself does not download image files. Search defaults to English prints;
+use the language menu to include another supported language or all languages.
 
 ## Download only
 
